@@ -1,0 +1,22 @@
+[
+  {
+    "repository": "Stone-Trees/device_xiaomi_sm6375-common",
+    "target_path": "device/xiaomi/sm6375-common",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "Stone-Trees/vendor_xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "lineage-20"
+  },
+  {
+    "repository": "Stone-Trees/kernel_xiaomi_sm6375",
+    "target_path": "kernel/xiaomi/sm6375",
+    "branch": "13"
+  },
+  {
+    "repository": "Stone-Trees/xiaomi_stone-kernel",
+    "target_path": "device/xiaomi/stone-kernel",
+    "branch": "13"
+  }
+]
