@@ -22,6 +22,10 @@ TARGET_FACE_UNLOCK_SUPPORTED := true
 # Charging Animation
 TARGET_INCLUDE_PIXEL_CHARGER := true
 
+# Maintainer
+PRODUCT_SYSTEM_PROPERTIES += \
+     ro.spos.maintainer=Dr.Opto
+
 #Superior stuff
 TARGET_INCLUDE_MATLOG := false
 USE_MOTO_CALCULATOR := true
