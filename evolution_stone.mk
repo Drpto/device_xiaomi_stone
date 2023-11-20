@@ -15,7 +15,7 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 $(call inherit-product, device/xiaomi/stone/device.mk)
 
 #EvolutionX prop
-EVO_BUILD_TYPE := UNOFFICIAL
+EVO_BUILD_TYPE := OFFICIAL
 
 # Device props
 TARGET_SUPPORTS_BLUR := true
