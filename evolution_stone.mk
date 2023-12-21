@@ -18,7 +18,6 @@ $(call inherit-product, device/xiaomi/stone/device.mk)
 EVO_BUILD_TYPE := OFFICIAL
 
 # Device props
-TARGET_SUPPORTS_BLUR := true
 TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
