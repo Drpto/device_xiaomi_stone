@@ -37,6 +37,9 @@ TARGET_CORE_GMS := true
 USE_QUICKPIC := true
 USE_DUCKDUCKGO := false
 
+# Use Prebuilt Kernel
+PREBUILT_KERNEL := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := superior_stone
 PRODUCT_DEVICE := stone
