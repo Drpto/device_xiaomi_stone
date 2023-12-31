@@ -22,7 +22,7 @@ TARGET_SUPPORTS_QUICK_TAP := true
 TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Charging Animation
-TARGET_USE_PIXEL_CHARGER := true
+USE_PIXEL_CHARGING := true
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := evolution_stone
